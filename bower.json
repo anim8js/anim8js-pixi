@@ -1,0 +1,27 @@
+{
+  "name": "anim8js-pixi",
+  "version": "1.0.0",
+  "homepage": "http://clickermonkey.github.io/anim8js-pixi",
+  "authors": [
+    "Philip Diffenderfer <pdiffenderfer@gmail.com>"
+  ],
+  "description": "anim8 PixiJS (http://www.pixijs.com/)",
+  "main": "build/anim8js-pixi.js",
+  "keywords": [
+    "javascript",
+    "animation",
+    "PixiJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src"
+  ],
+  "dependencies": {
+    "anim8js": "^1.0.0",
+    "pixi": "pixijs#^1.3.0"
+  }
+}
