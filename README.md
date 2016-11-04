@@ -1,4 +1,4 @@
-# anim8js-pixi
+![anim8js](https://github.com/anim8js/anim8js/blob/master/images/anim8js-logo.png)
 
 [anim8](https://github.com/anim8js/anim8js) [PixiJS](http://www.pixijs.com/)
 
