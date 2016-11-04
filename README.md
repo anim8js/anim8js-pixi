@@ -1,12 +1,12 @@
 # anim8js-pixi
 
-[anim8](https://github.com/ClickerMonkey/anim8js) [PixiJS](http://www.pixijs.com/)
+[anim8](https://github.com/anim8js/anim8js) [PixiJS](http://www.pixijs.com/)
 
 ### Installation
 
 - Bower: `bower install anim8js-pixi`
 - Node: `npm install anim8js-pixi`
-- Download: [anim8js-pixi](https://raw.githubusercontent.com/ClickerMonkey/anim8js-pixi/master/build/anim8js-pixi.js)
+- Download: [anim8js-pixi](https://raw.githubusercontent.com/anim8js/anim8js-pixi/master/build/anim8js-pixi.js)
 
 ##### Properties you can anim8
 
