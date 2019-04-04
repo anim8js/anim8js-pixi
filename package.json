@@ -1,8 +1,9 @@
 {
   "name": "anim8js-pixi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "anim8 PixiJS (http://www.pixijs.com/)",
   "author": "Philip Diffenderfer",
+  "main": "build/anim8js-pixi.js",
   "license": "MIT",
   "repository": {
     "type": "git",
