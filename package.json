@@ -1,9 +1,10 @@
 {
   "name": "anim8js-pixi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "anim8 PixiJS (http://www.pixijs.com/)",
   "author": "Philip Diffenderfer",
   "main": "build/anim8js-pixi.js",
+  "types": "index.d.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,7 +30,9 @@
     "jaguarjs-jsdoc": "^1.0.1",
     "jsdoc": "^3.4.0",
     "jshint": "^2.9.2",
-    "merge-stream": "^1.0.0"
+    "merge-stream": "^1.0.0",
+    "@types/pixi.js": "^4.8.7",
+    "pixi.js": "^4.8.7"
   },
   "dependencies": {
     "anim8js": "^1.0.0"

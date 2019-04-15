@@ -30,20 +30,24 @@ Dynamics.pivotY = function(attr, subject)
   subject.pivot.y = attr;
 };
 
-Dynamics.offsetX = function(attr, subject)
+Dynamics.skewX = function(attr, subject)
 {
-  subject.offset.x = attr;
+  subject.skew.x = attr;
 };
 
-Dynamics.offsetY = function(attr, subject)
+Dynamics.skewX = function(attr, subject)
 {
-  subject.offset.y = attr;
+  subject.skew.y = attr;
 };
 
-Dynamics.dimension = function(attr, subject)
+Dynamics.anchorX = function(attr, subject)
 {
-  subject.width = attr.x;
-  subject.height = attr.y;
+  subject.anchor.x = attr;
+};
+
+Dynamics.anchorY = function(attr, subject)
+{
+  subject.anchor.y = attr;
 };
 
 Dynamics.color = function(attr, subject)
@@ -74,9 +78,4 @@ Dynamics.dropShadowColor = function(attr, subject)
 Dynamics.tint = function(attr, subject)
 {
   subject.tint = getRGB( attr );
-};
-
-Dynamics.sizeScalar = function(attr, subject)
-{
-  subject.size = attr;
 };
